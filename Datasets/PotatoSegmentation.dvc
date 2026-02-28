@@ -1,0 +1,6 @@
+outs:
+- md5: f1b5681303e2dc7833696763f26505b7.dir
+  size: 48418332
+  nfiles: 1421
+  hash: md5
+  path: PotatoSegmentation
